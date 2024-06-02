@@ -1,0 +1,3 @@
+REQUERIMIENTOS
+
+apt install pv
